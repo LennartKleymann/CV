@@ -1,4 +1,4 @@
-namespace api;
+namespace CvApi;
 
 public class WeatherForecast
 {
